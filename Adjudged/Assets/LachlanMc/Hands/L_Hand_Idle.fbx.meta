@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: abb3318a5b7dac344a133b8ff7287a03
+timeCreated: 1506054464
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: L_Finger_Connector
+    100002: L_Hand_Centre
+    100004: //RootNode
+    100006: L_Hand_LP
+    100008: L_Hand_Master
+    100010: L_Index_Joint1
+    100012: L_Index_Joint2
+    100014: L_Index_Knuckle
+    100016: L_Index_Nub
+    100018: L_Middle_Finger_Joint1
+    100020: L_Middle_Finger_Joint2
+    100022: L_Middle_Finger_Knuckle
+    100024: L_Middle_Finger_Nub
+    100026: L_Pinkie_Joint1
+    100028: L_Pinkie_Joint2
+    100030: L_Pinkie_Knuckle
+    100032: L_Pinkie_Nub
+    100034: L_Ring_Finger_Joint1
+    100036: L_Ring_FInger_Joint2
+    100038: L_Ring_Finger_Knuckle
+    100040: L_Ring_FInger_Nub
+    100042: L_Thum_Connector
+    100044: L_Thumb_Helper
+    100046: L_Thumb_Joint
+    100048: L_Thumb_Knuckle
+    100050: L_Thumb_Nub
+    100052: L_Wrist
+    100054: R_Hand_LP
+    400000: L_Finger_Connector
+    400002: L_Hand_Centre
+    400004: //RootNode
+    400006: L_Hand_LP
+    400008: L_Hand_Master
+    400010: L_Index_Joint1
+    400012: L_Index_Joint2
+    400014: L_Index_Knuckle
+    400016: L_Index_Nub
+    400018: L_Middle_Finger_Joint1
+    400020: L_Middle_Finger_Joint2
+    400022: L_Middle_Finger_Knuckle
+    400024: L_Middle_Finger_Nub
+    400026: L_Pinkie_Joint1
+    400028: L_Pinkie_Joint2
+    400030: L_Pinkie_Knuckle
+    400032: L_Pinkie_Nub
+    400034: L_Ring_Finger_Joint1
+    400036: L_Ring_FInger_Joint2
+    400038: L_Ring_Finger_Knuckle
+    400040: L_Ring_FInger_Nub
+    400042: L_Thum_Connector
+    400044: L_Thumb_Helper
+    400046: L_Thumb_Joint
+    400048: L_Thumb_Knuckle
+    400050: L_Thumb_Nub
+    400052: L_Wrist
+    400054: R_Hand_LP
+    4300000: L_Hand_LP
+    7400000: LHANDIDLEANIMATION
+    9500000: //RootNode
+    13700000: L_Hand_LP
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: LHANDIDLEANIMATION
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 500
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

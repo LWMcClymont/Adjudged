@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: 53c92f00b6bd03c4285963228bc07c87
+timeCreated: 1508471369
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: FingerHelper
+    100002: Index1
+    100004: Index2
+    100006: IndexBase
+    100008: IndexNub
+    100010: MasterCTRL
+    100012: Middle1
+    100014: Middle2
+    100016: MiddleBase
+    100018: MiddleNub
+    100020: Mstr
+    100022: Pinkie1
+    100024: Pinkie2
+    100026: PinkieBase
+    100028: PinkieNub
+    100030: R_Hand_LP
+    100032: R_Hand_LP 1
+    100034: //RootNode
+    100036: Ring1
+    100038: Ring2
+    100040: RingBase
+    100042: RingNub
+    100044: ThumbBase
+    100046: ThumbHelper
+    100048: ThumbMid
+    100050: ThumbNub
+    100052: Wrist
+    400000: FingerHelper
+    400002: Index1
+    400004: Index2
+    400006: IndexBase
+    400008: IndexNub
+    400010: MasterCTRL
+    400012: Middle1
+    400014: Middle2
+    400016: MiddleBase
+    400018: MiddleNub
+    400020: Mstr
+    400022: Pinkie1
+    400024: Pinkie2
+    400026: PinkieBase
+    400028: PinkieNub
+    400030: R_Hand_LP
+    400032: R_Hand_LP 1
+    400034: //RootNode
+    400036: Ring1
+    400038: Ring2
+    400040: RingBase
+    400042: RingNub
+    400044: ThumbBase
+    400046: ThumbHelper
+    400048: ThumbMid
+    400050: ThumbNub
+    400052: Wrist
+    4300000: R_Hand_LP
+    7400000: Idle
+    9500000: //RootNode
+    13700000: R_Hand_LP 1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

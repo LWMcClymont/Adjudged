@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 3d1c1fbde9ddfef46ad46798fb161b56
+timeCreated: 1507771777
+licenseType: Free
+ShaderImporter:
+  defaultTextures:
+  - _Albedo: {fileID: 2800000, guid: 3fa2c93bf7ecb4c44a4034bf4900a40c, type: 3}
+  - _Metallic: {fileID: 2800000, guid: f52741d90bd81094db86a01eb3ac90d1, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
